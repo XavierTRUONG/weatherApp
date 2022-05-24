@@ -1,11 +1,15 @@
+import { BrowserRouter as Router } from 'react-router-dom';
+
+import AllRoutes from './Components/AllRoutes/Allroutes';
+
 import './App.css';
 
 function App() {
   return (
     <div className="App">
-      <div>
-        <h1>The Forecast Weather App</h1>
-      </div>
+      <Router>
+        <AllRoutes/>
+      </Router>
     </div>
   );
 }
