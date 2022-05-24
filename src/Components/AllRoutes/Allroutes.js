@@ -10,9 +10,9 @@ import Weather from "../../Pages/Weather/Weather";
 const AllRoutes = () => {
     return ( 
         <Routes>
-            <Route path="/" element={ <Home/> }/>
-            <Route path="/weather" element={ <Weather/> }/>
-            <Route path="*" element={ <NotFound/> }/>
+            <Route path="/" element={ <Home /> }/>
+            <Route path="/weather" element={ <Weather /> }/>
+            <Route path="*" element={ <NotFound /> }/>
         </Routes>
      );
 }

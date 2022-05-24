@@ -1,0 +1,46 @@
+.bar {
+    width: 600px;
+    height: 65px;
+    background: #FDFBF1;
+    border-radius: 9999px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-wrap: wrap;
+    margin: 180px auto;
+}
+
+.searchInp {
+    width: 450px;
+    height: 60px;
+    outline: none;
+    border: none;
+    font-size: 25px;
+    color: #6D92C7;
+    margin: 0px 42.5px 0px;
+    background: none;
+    font-family: Kite One;
+}
+
+.bar button {
+    width: 65px;
+    height: 65px;
+    background: #FDFBF1;
+    border: none;
+    border-radius: 0px 9999px 9999px 0px;
+}
+
+.bar button:hover {
+    background: #edebe0;
+}
+
+.bar button:active {
+    background: #e7e5db;
+}
+
+.bar .logo-glass {
+    width: 26px;
+    height: 26px;
+    color: #6D92C7;
+
+}
