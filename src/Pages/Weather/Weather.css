@@ -1,4 +1,7 @@
 .weather {
     width: 100%;
     height: 100vh;
+    background: url(../../Public/Images/cloud.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
 }
