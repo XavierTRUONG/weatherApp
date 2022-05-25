@@ -1,0 +1,30 @@
+.container {
+    width: 350px;
+    height: 75px;
+    background: #6D92C7;
+    border-radius: 5px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.littleContainer {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: center;
+    height: 129px;
+    width: 500px;
+}
+.littleBox {
+    display: flex;
+    justify-content: end;
+}
+.littleBox p {
+    font-family: Kite One;
+    font-size: 25px;
+}
+.littleBox h2 {
+    font-family: Kite One;
+    font-size: 25px;
+    padding: 10px;
+}

@@ -1,0 +1,21 @@
+.mainBox h2 {
+    text-align: center;
+    font-family: Kite One;
+    font-size: 35px;
+    padding-top: 20px;
+}
+.mainBox li {
+    list-style-type: none;
+    font-family: Kite One;
+    font-size: 30px;
+    padding-left: 75px;
+}
+.mainBox {
+    width: 500px;
+    height: 300px;
+    background: #6D92C7;
+    border-radius: 10px 10px 0px 0px;
+    position: absolute;
+    bottom: 0px;
+    margin-left: 200px;
+}
