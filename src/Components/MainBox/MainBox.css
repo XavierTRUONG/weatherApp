@@ -3,12 +3,14 @@
     font-family: Kite One;
     font-size: 35px;
     padding-top: 20px;
+    color: #FDFBF1;
 }
 .mainBox li {
     list-style-type: none;
     font-family: Kite One;
     font-size: 30px;
     padding-left: 75px;
+    color: #FDFBF1;
 }
 .mainBox {
     width: 500px;

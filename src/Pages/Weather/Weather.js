@@ -3,6 +3,7 @@ import './Weather.css';
 // import axios from 'axios';
 import MainBox from '../../Components/MainBox/MainBox';
 import LittleBox from '../../Components/LittleBox/LittleBox';
+import Button from '../../Components/Button/Button';
 
 
 const Weather = () => {
@@ -30,6 +31,7 @@ const Weather = () => {
             <LittleBox/>
             <LittleBox/>
             <LittleBox/>
+            <Button/>
             <MainBox/>
         </div>
      );

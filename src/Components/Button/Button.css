@@ -1,0 +1,15 @@
+.buttonBack {
+    width: 95px;
+    height: 95px;
+    background: #6D92C7;
+    border-radius: 50%;
+    position: absolute;
+    bottom: 85%;
+    left: 30px;
+}
+.logo-arrow {
+    width: 60px;
+    height: 60px;
+    padding: 16px;
+    color: #FDFBF1;
+}

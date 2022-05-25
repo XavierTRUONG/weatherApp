@@ -22,9 +22,11 @@
 .littleBox p {
     font-family: Kite One;
     font-size: 25px;
+    color: #FDFBF1;
 }
 .littleBox h2 {
     font-family: Kite One;
     font-size: 25px;
     padding: 10px;
+    color: #FDFBF1;
 }
